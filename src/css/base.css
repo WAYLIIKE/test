@@ -7,7 +7,7 @@
 body {
   font-family: var(--primary-font);
   background-color: var(--brown);
-  color: var(--white);
+  color: lightgray;
 }
 
 /* Phone screens */
